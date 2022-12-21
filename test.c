@@ -1,6 +1,6 @@
 //comment
 int main (void) {
-    printf("Hello world! :/ efekf");
+    printf("Hello world! :/ elfekf");
     printf("hello from github");
 
     return 0;
