@@ -1,4 +1,4 @@
 int main (void) {
-    printf("test message");
+    printf("beep boop");
     return 0;
 }
